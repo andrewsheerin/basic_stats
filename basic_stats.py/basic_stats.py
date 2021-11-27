@@ -1,17 +1,12 @@
 from random import random
 import numpy as np
-# Import plotting library
-import matplotlib.pyplot as plt 
-from os import *
-
-
-# In[103]:
+import matplotlib.pyplot as plt
 
 
 # Create a list variable that contains at least 25 elements.  You can create this list any number of ways.  
 #Randomely generated numbers on Excel to help check my work
 
-def basicstats(N=25):
+def basic_stats(N=25):
     
     #create list
     list1 = []
