@@ -46,3 +46,4 @@ def basic_stats(N=25):
     #Return statement
     return mean2, std, histogram
 
+print(basic_stats(25))
